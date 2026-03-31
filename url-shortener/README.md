@@ -74,17 +74,13 @@ railway init
 railway up
 ```
 
-### Vercel (static + API)
-Adapt for serverless functions.
 
-## PowerShell npm Fix
-```
-Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
-```
 Or use Git Bash / VSCode terminal.
 
-## Screenshots
-*(Add after testing)*
+
+###Deployed in Render
+https://url-shortner-cv057-jayshree.onrender.com/
+This is the code after Deployment....
 
 ## Troubleshooting
 - **Port busy?** Change `PORT=3001 node server.js`
